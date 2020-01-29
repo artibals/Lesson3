@@ -1,0 +1,28 @@
+body {
+width: 600px;
+border-width: 1px black;
+ 
+}
+
+h1 {
+    color:red
+}
+
+p{
+    border: 5px solid blue
+}
+#chosen {
+    background-color: yellow
+}
+.underline {
+    text-decoration: underline
+}
+h1, p {
+    font-family: sans-serif
+}
+p::first-letter {
+font-size: 2rem
+}
+p:hover {
+    font-weight: 
+}
